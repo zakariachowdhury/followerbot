@@ -1,0 +1,23 @@
+{
+  "name": "followerbot",
+  "version": "1.0.0",
+  "description": "Steem auto follower bot",
+  "main": "follower.js",
+  "scripts": {
+    "start": "node follower.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakariachowdhury/followerbot.git"
+  },
+  "author": "Zakaria Chowdhury",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zakariachowdhury/followerbot/issues"
+  },
+  "homepage": "https://github.com/zakariachowdhury/followerbot#readme",
+  "dependencies": {
+    "steem": "^0.6.7"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "account": "your_bot_account_name",
+  "posting_key": "your_private_posting_key",
+  "author_max_reputation": 685471824671,
+  "author_min_following": 3,
+  "author_max_followers": 50,
+  "posting_interval": 1
+}
